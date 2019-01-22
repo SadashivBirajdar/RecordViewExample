@@ -2,6 +2,7 @@
 Whatsapp like audio recordview
 
 Thanks/Credits
+
 NetoDevel for some inspiration and some code in his lib audio-recorder-button
 alexjlockwood for making this Awesome tool ShapeShifter which helped me to animate vectors easily
 team-supercharge for making ShimmerLayout
